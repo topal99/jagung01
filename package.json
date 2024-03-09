@@ -1,0 +1,19 @@
+{
+  "name": "jagung01",
+  "version": "1.1.4",
+  "description": "teatesku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topal99/jagung01"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topal99/jagung01/issues"
+  },
+  "homepage": "https://github.com/topal99/jagung01#readme"
+}
